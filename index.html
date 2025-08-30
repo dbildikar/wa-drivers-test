@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washington State Drivers Test</title>
+    <link rel="stylesheet" href="new-styles.css?v=8">
+</head>
+<body>
+    <!-- Clean Header -->
+    <div class="header">
+        <div class="container">
+            <h1>Washington State Drivers Test</h1>
+            <p class="subtitle">Practice for your driver's license exam with real questions</p>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="container">
+            <div class="test-card">
+                <div class="test-info">
+                    <h2>Practice Test</h2>
+                    <p class="test-description">Take a practice test with <strong id="question-count">2</strong> questions to prepare for your Washington State driver's license exam.</p>
+                    
+                    <div class="features">
+                        <div class="feature">
+                            <span class="feature-icon">📚</span>
+                            <span>Real exam questions</span>
+                        </div>
+                        <div class="feature">
+                            <span class="feature-icon">💡</span>
+                            <span>Detailed explanations</span>
+                        </div>
+                        <div class="feature">
+                            <span class="feature-icon">📊</span>
+                            <span>Instant results</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="test-actions">
+                    <button id="start-test-btn" class="btn btn-primary btn-large">
+                        <span class="btn-icon">🚀</span>
+                        Start Practice Test
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Test Container -->
+    <div id="test-container" class="test-container hidden">
+        <div class="container">
+            <div class="test-header">
+                <h2>Practice Test</h2>
+                <div class="test-progress">
+                    <span id="current-question">1</span> of <span id="total-questions">2</span>
+                </div>
+            </div>
+            
+            <div class="question-container">
+                <p id="question-text">Question text will appear here</p>
+                <div id="answers-container" class="answers-container">
+                    <!-- Answers will be populated here -->
+                </div>
+            </div>
+            
+            <div class="test-controls">
+                <button id="prev-btn" class="btn btn-outline">Previous</button>
+                <button id="next-btn" class="btn btn-primary">Next</button>
+                <button id="submit-btn" class="btn btn-success hidden">Submit Test</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results Container -->
+    <div id="results-container" class="results-container hidden">
+        <div class="container">
+            <div class="results-header">
+                <h2>Test Results</h2>
+            </div>
+            <div id="results-content">
+                <!-- Results will be populated here -->
+            </div>
+            <div class="results-actions">
+                <button id="restart-test-btn" class="btn btn-primary">Take Another Test</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="database.js"></script>
+    <script src="test-manager.js"></script>
+    <script src="ui-manager.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

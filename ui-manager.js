@@ -3,8 +3,6 @@ class UIManager {
         this.currentQuestionIndex = 0;
     }
 
-
-
     showQuestion() {
         const question = window.testManager.getCurrentQuestion();
         if (!question) return;

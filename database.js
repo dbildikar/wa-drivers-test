@@ -90,7 +90,7 @@ class QuestionDatabase {
 
 // Global configuration
 window.TEST_CONFIG = {
-    DEFAULT_QUESTION_COUNT: 2,  // Set to 2 for quick testing
+    DEFAULT_QUESTION_COUNT: 25,  // Full practice test
     PASSING_SCORE: 80,
     AUTO_ADVANCE_DELAY: 2000
 };

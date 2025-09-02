@@ -1,15 +1,13 @@
 # Washington State Drivers Test
 
-A professional, interactive practice test website for the Washington State driver's license exam. Features a modern UI with Google OAuth authentication and detailed explanations for incorrect answers.
+A professional, interactive practice test website for the Washington State driver's license exam. Features a modern UI with detailed explanations for incorrect answers.
 
 ## ✨ Features
 
 - **Professional Design**: Modern, responsive interface with gradient backgrounds and clean typography
-- **Google OAuth**: Secure user authentication with Google accounts
 - **Practice Tests**: Configurable question count (default: 2 questions for quick testing)
 - **Real Questions**: Uses actual Washington State driver's license exam questions
 - **Detailed Explanations**: Shows why answers are correct/incorrect with source references
-- **Progress Tracking**: Save and track your test results (when logged in)
 - **Mobile Responsive**: Works perfectly on all devices
 
 ## 🚀 Quick Start
@@ -20,66 +18,31 @@ A professional, interactive practice test website for the Washington State drive
    cd wa-drivers-test
    ```
 
-2. **Set up Google OAuth** (see setup instructions below)
-
-3. **Start the development server**:
+2. **Start the development server**:
    ```bash
    python3 -m http.server 8001
    ```
 
-4. **Open your browser** and navigate to `http://localhost:8001`
+3. **Open your browser** and navigate to `http://localhost:8001`
 
-## 🔐 Google OAuth Setup
+## 🔐 Future: Google OAuth Integration
 
-### Step 1: Create Google Cloud Project
+When you're ready to deploy to a hosted solution with HTTPS, you can add Google OAuth authentication:
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project or select an existing one
-3. Enable the **Google+ API** or **Google Identity Services**
+1. **Deploy to a hosting service** (Netlify, Vercel, AWS, etc.)
+2. **Set up Google Cloud Console** with OAuth 2.0 credentials
+3. **Add the authentication code** back to the project
+4. **Enable user accounts** and progress tracking
 
-### Step 2: Configure OAuth Consent Screen
-
-1. Go to **APIs & Services** → **OAuth consent screen**
-2. Choose **External** user type
-3. Fill in required information:
-   - App name: "Washington State Drivers Test"
-   - User support email: Your email
-   - Developer contact information: Your email
-4. Add scopes: `email`, `profile`, `openid`
-5. Add test users if needed
-
-### Step 3: Create OAuth Credentials
-
-1. Go to **APIs & Services** → **Credentials**
-2. Click **Create Credentials** → **OAuth 2.0 Client IDs**
-3. Choose **Web application**
-4. Add authorized JavaScript origins:
-   - `http://localhost:8001` (for development)
-   - `https://yourdomain.com` (for production)
-5. Copy the **Client ID**
-
-### Step 4: Update the Code
-
-Replace `YOUR_GOOGLE_CLIENT_ID` in `index.html` with your actual client ID:
-
-```html
-<div id="g_id_onload"
-     data-client_id="123456789-abcdefghijklmnop.apps.googleusercontent.com"
-     data-context="signin"
-     data-ux_mode="popup"
-     data-callback="handleCredentialResponse"
-     data-auto_prompt="false">
-</div>
-```
+For now, the site works perfectly as a standalone practice test application!
 
 ## 📁 Project Structure
 
 ```
 wa-drivers-test/
-├── index.html              # Main HTML file with Google OAuth integration
+├── index.html              # Main HTML file with clean, professional interface
 ├── new-styles.css          # Professional styling with responsive design
 ├── main.js                 # Main application controller
-├── auth-manager.js         # Google OAuth authentication manager
 ├── ui-manager.js           # UI state management
 ├── test-manager.js         # Test logic and scoring
 ├── database.js             # Question data management
@@ -90,11 +53,9 @@ wa-drivers-test/
 ## 🎯 How It Works
 
 1. **User visits the site** and sees a professional landing page
-2. **User signs in with Google** using OAuth 2.0
-3. **Authentication state is saved** in localStorage for persistence
-4. **User can take practice tests** with real Washington State questions
-5. **Results are displayed** with detailed explanations and sources
-6. **Progress can be saved** (when logged in) for future reference
+2. **User can take practice tests** with real Washington State questions
+3. **Results are displayed** with detailed explanations and sources
+4. **Clean, focused experience** without authentication complexity
 
 ## 🔧 Customization
 

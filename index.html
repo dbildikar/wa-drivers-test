@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Washington State Drivers Test</title>
-    <link rel="stylesheet" href="new-styles.css?v=9">
-    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <link rel="stylesheet" href="new-styles.css?v=11">
 </head>
 <body>
     <!-- Clean Header -->
@@ -13,35 +12,6 @@
         <div class="container">
             <h1>Washington State Drivers Test</h1>
             <p class="subtitle">Practice for your driver's license exam with real questions</p>
-            
-            <!-- User Profile Section -->
-            <div id="user-profile" class="user-profile hidden">
-                <div class="user-info">
-                    <img id="user-avatar" class="user-avatar" src="" alt="User Avatar">
-                    <span id="user-name" class="user-name"></span>
-                    <button id="logout-btn" class="btn btn-outline btn-small">Logout</button>
-                </div>
-            </div>
-            
-            <!-- Login Section -->
-            <div id="login-section" class="login-section">
-                <p class="login-text">Sign in to save your progress and track your results</p>
-                <div id="g_id_onload"
-                     data-client_id="YOUR_GOOGLE_CLIENT_ID"
-                     data-context="signin"
-                     data-ux_mode="popup"
-                     data-callback="handleCredentialResponse"
-                     data-auto_prompt="false">
-                </div>
-                <div class="g_id_signin"
-                     data-type="standard"
-                     data-shape="rectangular"
-                     data-theme="outline"
-                     data-text="signin_with"
-                     data-size="large"
-                     data-logo_alignment="left">
-                </div>
-            </div>
         </div>
     </div>
 
@@ -51,7 +21,7 @@
             <div class="test-card">
                 <div class="test-info">
                     <h2>Practice Test</h2>
-                    <p class="test-description">Take a practice test with <strong id="question-count">2</strong> questions to prepare for your Washington State driver's license exam.</p>
+                    <p class="test-description">Take a practice test with <strong id="question-count">25</strong> questions to prepare for your Washington State driver's license exam.</p>
                     
                     <div class="features">
                         <div class="feature">
@@ -85,7 +55,7 @@
             <div class="test-header">
                 <h2>Practice Test</h2>
                 <div class="test-progress">
-                    <span id="current-question">1</span> of <span id="total-questions">2</span>
+                    <span id="current-question">1</span> of <span id="total-questions">25</span>
                 </div>
             </div>
             
@@ -119,10 +89,9 @@
         </div>
     </div>
 
-    <script src="database.js"></script>
-    <script src="test-manager.js"></script>
-    <script src="ui-manager.js"></script>
-    <script src="auth-manager.js"></script>
-    <script src="main.js"></script>
+    <script src="database.js?v=11"></script>
+    <script src="test-manager.js?v=11"></script>
+    <script src="ui-manager.js?v=11"></script>
+    <script src="main.js?v=11"></script>
 </body>
 </html>

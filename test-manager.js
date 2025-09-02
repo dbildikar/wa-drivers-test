@@ -18,7 +18,7 @@ class TestManager {
             await window.questionDB.loadQuestions();
             
             // Get question count from config if not specified
-            const count = questionCount || 2; // Default to 2 questions
+            const count = questionCount || window.TEST_CONFIG.DEFAULT_QUESTION_COUNT;
             console.log(`Starting test with ${count} questions`);
             
             // Get random questions

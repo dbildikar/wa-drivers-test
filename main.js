@@ -64,27 +64,6 @@ function setupEventListeners() {
     
     // Update question count display
     updateQuestionCountDisplay();
-    
-    // Set up authentication callbacks
-    setupAuthCallbacks();
-}
-
-function setupAuthCallbacks() {
-    if (window.authManager) {
-        // Override the default login success callback
-        window.authManager.onLoginSuccess = function() {
-            console.log('User logged in, loading any saved progress...');
-            // You can add logic here to load user's saved progress
-            // For example, load previous test results, saved questions, etc.
-        };
-        
-        // Override the default logout success callback
-        window.authManager.onLogoutSuccess = function() {
-            console.log('User logged out, clearing user data...');
-            // You can add logic here to clear user-specific data
-            // For example, clear test results, reset progress, etc.
-        };
-    }
 }
 
 function updateQuestionCountDisplay() {

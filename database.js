@@ -21,7 +21,7 @@ class QuestionDatabase {
     async _fetchQuestions() {
         try {
             console.log('Fetching questions from JSONL file...');
-            const response = await fetch('wa_drivers_ed_question_bank_520.jsonl');
+            const response = await fetch('wa_drivers_ed_question_bank_final.jsonl');
             
             if (!response.ok) {
                 throw new Error(`Failed to load questions: ${response.status}`);

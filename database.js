@@ -58,7 +58,6 @@ class QuestionDatabase {
 
             this.isLoaded = true;
             console.log(`Successfully loaded ${this.questions.length} questions`);
-            console.log('Sample question:', this.questions[0]);
             return this.questions;
         } catch (error) {
             console.error('Error loading questions:', error);

@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "WA-CLEAN-0001",
+    "category": "Distractions",
+    "question_text": "With an instruction permit or Intermediate License, can you use a cell phone while driving?",
+    "answer_options": [
+      "Yes, if hands\u2011free",
+      "Yes, if at a stoplight",
+      "Yes, with a passenger",
+      "No, not even hands\u2011free (emergency only)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: No, not even hands\u2011free (emergency only). Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0002",
+    "category": "Licensing",
+    "question_text": "After 6 months of safe driving, how many passengers under 20 are allowed (not family)? (choose the best number)",
+    "answer_options": [
+      "Only 1",
+      "Only with parent permission",
+      "None",
+      "Up to 3"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Up to 3. Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0003",
+    "category": "Parking",
+    "question_text": "How far must you park from a fire station driveway on the opposite side of the street?",
+    "answer_options": [
+      "100 feet",
+      "75 feet",
+      "25 feet",
+      "50 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 75 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0004",
+    "category": "Licensing",
+    "question_text": "Which statement about licensing is TRUE?",
+    "answer_options": [
+      "At 15",
+      "At 14\u00bd",
+      "At 16",
+      "After turning 15\u00bd"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: After turning 15\u00bd. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0005",
+    "category": "Impairment",
+    "question_text": "Which statement about transporting open alcohol or cannabis containers is TRUE?",
+    "answer_options": [
+      "On the passenger seat",
+      "In any closed bag",
+      "In the glovebox",
+      "In the trunk or truck bed (not accessible to the driver)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: In the trunk or truck bed (not accessible to the driver). Source: WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0006",
+    "category": "Parking",
+    "question_text": "Which statement about parking near traffic signals, stop signs, or yield signs is TRUE?",
+    "answer_options": [
+      "50 feet",
+      "20 feet",
+      "30 feet",
+      "15 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 30 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0007",
+    "category": "Parking",
+    "question_text": "Do not park within ___ of must you park from a driveway, alley, or private road?",
+    "answer_options": [
+      "20 feet",
+      "5 feet",
+      "10 feet",
+      "3 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 5 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0008",
+    "category": "Intersections",
+    "question_text": "Typical safe speed range for a roundabout is:",
+    "answer_options": [
+      "5\u201310 mph",
+      "15\u201325 mph",
+      "Over 45 mph",
+      "No limit posted"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 15\u201325 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0009",
+    "category": "Intersections",
+    "question_text": "When turning left, you must yield to:",
+    "answer_options": [
+      "Traffic to your right only",
+      "Vehicles behind you only",
+      "Vehicles already stopped behind the line",
+      "Oncoming traffic, pedestrians, and bicyclists"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Oncoming traffic, pedestrians, and bicyclists. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0010",
+    "category": "Signs",
+    "question_text": "Regulatory speed limit signs are:",
+    "answer_options": [
+      "Square, green",
+      "Diamond-shaped, orange",
+      "Vertical rectangles, black on white",
+      "Round, yellow"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Vertical rectangles, black on white. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0011",
+    "category": "Intersections",
+    "question_text": "In a roundabout, you should:",
+    "answer_options": [
+      "Always take the inside lane to exit",
+      "Enter quickly to avoid stopping",
+      "Yield to traffic already in the circle and enter at a safe gap",
+      "Stop before entering regardless of traffic"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Yield to traffic already in the circle and enter at a safe gap. Source: WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0012",
+    "category": "Parking",
+    "question_text": "Do not park within ___ of a traffic signal, stop sign, or yield sign.",
+    "answer_options": [
+      "50 feet",
+      "30 feet",
+      "20 feet",
+      "15 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 30 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0013",
+    "category": "Parking",
+    "question_text": "How far must you park from a traffic signal, stop sign, or yield sign?",
+    "answer_options": [
+      "30 feet",
+      "50 feet",
+      "75 feet",
+      "20 feet"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 30 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0014",
+    "category": "Lane Use",
+    "question_text": "A flashing yellow 'X' over a lane means:",
+    "answer_options": [
+      "Lane closed",
+      "Proceed at normal speed",
+      "No restrictions",
+      "Lane is for turning only"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Lane is for turning only. Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0015",
+    "category": "Intersections",
+    "question_text": "At an uncontrolled intersection, you must:",
+    "answer_options": [
+      "Yield to traffic already in the intersection and to the right",
+      "Yield to vehicles behind you",
+      "Always proceed first",
+      "Stop completely then go"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Yield to traffic already in the intersection and to the right. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0016",
+    "category": "Zones",
+    "question_text": "You see 'End Road Work' sign. Until then, you should:",
+    "answer_options": [
+      "Ignore flaggers if no workers visible",
+      "Resume normal speed immediately",
+      "Use shoulder to pass",
+      "Obey posted work-zone instructions and reduced speeds"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Obey posted work-zone instructions and reduced speeds. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0017",
+    "category": "Licensing",
+    "question_text": "Knowledge exam scores are valid for (choose the best number)",
+    "answer_options": [
+      "1 year",
+      "2 years",
+      "6 months",
+      "Until you pass the skills test"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 2 years. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0018",
+    "category": "Crashes",
+    "question_text": "Report a collision (if officer doesn't) within:",
+    "answer_options": [
+      "4 days",
+      "10 days",
+      "7 days",
+      "24 hours"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 4 days. Source: WA DOL Driver Guide (plain-text) \u00a75.9 Crashes & reporting, lines L324-L333.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a75.9 Crashes & reporting, lines L324-L333.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0019",
+    "category": "Distractions",
+    "question_text": "It is illegal in WA to drive while wearing:",
+    "answer_options": [
+      "Headphones/earbuds broadcasting sound (except one-ear compliant hands\u2011free)",
+      "A jacket",
+      "A hat",
+      "Sunglasses"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Headphones/earbuds broadcasting sound (except one-ear compliant hands\u2011free). Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0020",
+    "category": "Intersections",
+    "question_text": "Which statement about intersections is TRUE?",
+    "answer_options": [
+      "Stop before entering regardless of traffic",
+      "Always take the inside lane to exit",
+      "Enter quickly to avoid stopping",
+      "Yield to traffic already in the circle and enter at a safe gap"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Yield to traffic already in the circle and enter at a safe gap. Source: WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0021",
+    "category": "Lane Use",
+    "question_text": "You should keep right except to:",
+    "answer_options": [
+      "Turn right only",
+      "Pass",
+      "Park",
+      "Use phone"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Pass. Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0022",
+    "category": "Signs",
+    "question_text": "Warning signs (like 'Curve Ahead') are typically:",
+    "answer_options": [
+      "Diamond-shaped, yellow",
+      "Circular, red",
+      "Rectangular, white",
+      "Pentagon, blue"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Diamond-shaped, yellow. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0023",
+    "category": "Special Roads",
+    "question_text": "Which statement about special roads is TRUE?",
+    "answer_options": [
+      "45 mph",
+      "15 mph",
+      "35 mph",
+      "25 mph"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 25 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0024",
+    "category": "Lane Use",
+    "question_text": "Which statement about lane use is TRUE?",
+    "answer_options": [
+      "Merging into traffic",
+      "Left turns from either direction only (not for passing)",
+      "High-speed passing",
+      "Parking when busy"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Left turns from either direction only (not for passing). Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0025",
+    "category": "Bicycles",
+    "question_text": "What is the minimum safe passing distance when overtaking a bicyclist? (choose the best number)",
+    "answer_options": [
+      "1 foot",
+      "4 inches",
+      "3 feet",
+      "6 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 3 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0026",
+    "category": "Zones",
+    "question_text": "Approaching emergency vehicles with flashing lights at roadside, you must:",
+    "answer_options": [
+      "Stop in the lane",
+      "Switch to high beams",
+      "Move over or slow \u226510 mph below the limit (max 50 mph)",
+      "Speed up to clear area"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Move over or slow \u226510 mph below the limit (max 50 mph). Source: WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0027",
+    "category": "Railroad",
+    "question_text": "It can take a train up to ____ to stop.",
+    "answer_options": [
+      "a mile",
+      "a quarter mile",
+      "100 yards",
+      "two blocks"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: a mile. Source: WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0028",
+    "category": "Signs",
+    "question_text": "A YIELD sign is shaped like a:",
+    "answer_options": [
+      "Diamond",
+      "Triangle (point down)",
+      "Octagon",
+      "Rectangle"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Triangle (point down). Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0029",
+    "category": "Lane Use",
+    "question_text": "A shared center left-turn lane is for:",
+    "answer_options": [
+      "High-speed passing",
+      "Merging into traffic",
+      "Parking when busy",
+      "Left turns from either direction only (not for passing)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Left turns from either direction only (not for passing). Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0030",
+    "category": "Zones",
+    "question_text": "In an emergency zone with flashing lights ahead, you must (choose the best number)",
+    "answer_options": [
+      "Move over or slow at least 10 mph below the limit (max 50 mph)",
+      "Reduce speed by 2 mph",
+      "Change lanes only if convenient",
+      "Maintain speed but turn on hazards"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Move over or slow at least 10 mph below the limit (max 50 mph). Source: WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0031",
+    "category": "Visibility",
+    "question_text": "Which statement about visibility is TRUE?",
+    "answer_options": [
+      "300 feet",
+      "200 feet",
+      "500 feet",
+      "100 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 500 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0032",
+    "category": "Lane Use",
+    "question_text": "A steady red 'X' over a lane means:",
+    "answer_options": [
+      "Proceed with caution",
+      "Left turns only",
+      "Do not drive in this lane",
+      "HOV only"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Do not drive in this lane. Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0033",
+    "category": "Licensing",
+    "question_text": "Without driver training, when can you take the knowledge exam for a permit? (choose the best number)",
+    "answer_options": [
+      "At 15",
+      "After turning 15\u00bd",
+      "At 14\u00bd",
+      "At 16"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: After turning 15\u00bd. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0034",
+    "category": "Visibility",
+    "question_text": "You must switch from high beams to low beams when an oncoming vehicle is within:",
+    "answer_options": [
+      "200 feet",
+      "300 feet",
+      "600 feet",
+      "500 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 500 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0035",
+    "category": "Impairment",
+    "question_text": "Which statement about impairment is TRUE?",
+    "answer_options": [
+      "30 to 60 days",
+      "Exactly 1 year",
+      "90 to 730 days (or until age 21, whichever is longer)",
+      "1 to 3 months"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 90 to 730 days (or until age 21, whichever is longer). Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0036",
+    "category": "Parking",
+    "question_text": "At a railroad crossing, stop ___ from the nearest rail when required.",
+    "answer_options": [
+      "25 feet",
+      "50 feet",
+      "75 feet",
+      "100 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0037",
+    "category": "Impairment",
+    "question_text": "For drivers 21+, DUI per se BAC is:",
+    "answer_options": [
+      "0.08% or higher",
+      "0.05%",
+      "0.02%",
+      "0.10%"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 0.08% or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0038",
+    "category": "Railroad",
+    "question_text": "Which statement about railroad is TRUE?",
+    "answer_options": [
+      "More than 75 feet",
+      "At least 5 feet",
+      "Exactly 25 feet",
+      "Between 15 and 50 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Between 15 and 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0039",
+    "category": "Signs",
+    "question_text": "A round, yellow sign with an 'X' indicates:",
+    "answer_options": [
+      "No passing zone",
+      "A railroad crossing ahead",
+      "School zone",
+      "Hospital zone"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: A railroad crossing ahead. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0040",
+    "category": "Parking",
+    "question_text": "Do not park within ___ of a fire hydrant.",
+    "answer_options": [
+      "30 feet",
+      "50 feet",
+      "10 feet",
+      "15 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 15 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0041",
+    "category": "Lane Use",
+    "question_text": "A steady green arrow over a lane means:",
+    "answer_options": [
+      "Merge left",
+      "Stop here",
+      "You may use this lane",
+      "Bus only"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: You may use this lane. Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0042",
+    "category": "Sharing the Road",
+    "question_text": "At intersections, pedestrians have right-of-way:",
+    "answer_options": [
+      "In both marked and unmarked crosswalks",
+      "Only in marked crosswalks",
+      "Only when a walk signal shows",
+      "Only if they run"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: In both marked and unmarked crosswalks. Source: WA DOL Driver Guide (plain-text) \u00a74.1 Sharing with people, lines L162-L164.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.1 Sharing with people, lines L162-L164.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0043",
+    "category": "Zones",
+    "question_text": "What is the school-zone speed limit unless otherwise posted?",
+    "answer_options": [
+      "25 mph",
+      "35 mph",
+      "20 mph",
+      "30 mph"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 20 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0044",
+    "category": "Visibility",
+    "question_text": "You're using high beams at night. When must you dim them for oncoming traffic?",
+    "answer_options": [
+      "200 feet",
+      "100 feet",
+      "600 feet",
+      "300 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 300 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0045",
+    "category": "Parking",
+    "question_text": "Do not park within ___ of must you park from a fire station driveway on the opposite side of the street?",
+    "answer_options": [
+      "25 feet",
+      "50 feet",
+      "30 feet",
+      "75 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 75 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0046",
+    "category": "Signs",
+    "question_text": "What shape is a STOP sign?",
+    "answer_options": [
+      "Pentagon",
+      "Diamond",
+      "Circle",
+      "Octagon (8-sided)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Octagon (8-sided). Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0047",
+    "category": "Intersections",
+    "question_text": "At a four-way stop, who goes first?",
+    "answer_options": [
+      "The first vehicle to stop; if tied, yield to the vehicle on your right",
+      "Whoever flashes headlights",
+      "Whoever is turning right",
+      "The largest vehicle"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: The first vehicle to stop; if tied, yield to the vehicle on your right. Source: WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11-4.12 Signs & Signals, lines L193-L205.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0048",
+    "category": "Impairment",
+    "question_text": "Where may open alcohol/cannabis containers be legally transported in a vehicle?",
+    "answer_options": [
+      "In the trunk or truck bed (not accessible to the driver)",
+      "In any closed bag",
+      "Under a seat",
+      "In the glovebox"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: In the trunk or truck bed (not accessible to the driver). Source: WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0049",
+    "category": "Parking",
+    "question_text": "How far must you park from a railroad crossing?",
+    "answer_options": [
+      "15 feet",
+      "100 feet",
+      "50 feet",
+      "25 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0050",
+    "category": "Zones",
+    "question_text": "You approach flashing school zone beacons. You must:",
+    "answer_options": [
+      "Honk to warn",
+      "Slow to 20 mph and watch for children",
+      "Only slow if crossing guard present",
+      "Maintain the normal limit"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Slow to 20 mph and watch for children. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0051",
+    "category": "School Bus",
+    "question_text": "You are approaching a stopped school bus with red lights flashing. What must you do?",
+    "answer_options": [
+      "Stop only if you're behind the bus",
+      "Honk and proceed",
+      "Slow and pass with caution",
+      "Stop in both directions"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Stop in both directions. Source: WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0052",
+    "category": "Visibility",
+    "question_text": "You should signal at least ____ before turning or changing lanes.",
+    "answer_options": [
+      "25 feet",
+      "100 feet",
+      "50 feet",
+      "500 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 100 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0053",
+    "category": "Licensing",
+    "question_text": "A 16-year-old with an Intermediate License is driving during the first 6 months. Which is allowed?",
+    "answer_options": [
+      "Allowed after first 3 months",
+      "Allowed if the roads are empty",
+      "Not allowed unless with a parent/guardian or 25+ licensed driver",
+      "Allowed on weekends"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Not allowed unless with a parent/guardian or 25+ licensed driver. Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0054",
+    "category": "Lane Use",
+    "question_text": "Double solid yellow centerlines mean:",
+    "answer_options": [
+      "Pass only on your side",
+      "U-turns permitted at any time",
+      "Pass if clear",
+      "No passing in either direction"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: No passing in either direction. Source: WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.10-4.11/4.16 Road markings, lines L231-L236, L234.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0055",
+    "category": "Parking Safety",
+    "question_text": "It is a crime to leave a child unattended in a parked vehicle when:",
+    "answer_options": [
+      "Any child under 18",
+      "Only if doors are locked",
+      "Under 16 with engine running; under 12 regardless",
+      "Under 10 only"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Under 16 with engine running; under 12 regardless. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0056",
+    "category": "Bicycles",
+    "question_text": "What is the minimum safe passing distance when overtaking a bicyclist?",
+    "answer_options": [
+      "6 feet",
+      "3 feet",
+      "4 inches",
+      "2 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 3 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0057",
+    "category": "Sharing the Road",
+    "question_text": "Which statement about sharing the road is TRUE?",
+    "answer_options": [
+      "Speed up to get away",
+      "Stop in your lane",
+      "Pull left and slow",
+      "Pull to the right and stop"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Pull to the right and stop. Source: WA DOL Driver Guide (plain-text) \u00a74.9 Emergency vehicles, lines L189-L190.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.9 Emergency vehicles, lines L189-L190.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0058",
+    "category": "Licensing",
+    "question_text": "Second violation under Intermediate License results in (choose the best number)",
+    "answer_options": [
+      "License revoked for 2 years",
+      "6-month suspension or until age 18 (whichever comes first)",
+      "Written warning only",
+      "12-month suspension mandatory"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 6-month suspension or until age 18 (whichever comes first). Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0059",
+    "category": "Parking",
+    "question_text": "How far must you park from a driveway, alley, or private road?",
+    "answer_options": [
+      "15 feet",
+      "10 feet",
+      "25 feet",
+      "5 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 5 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0060",
+    "category": "Parking",
+    "question_text": "Which statement about parking is TRUE?",
+    "answer_options": [
+      "5 feet",
+      "3 feet",
+      "10 feet",
+      "15 feet"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 5 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0061",
+    "category": "Safety",
+    "question_text": "Which statement about safety is TRUE?",
+    "answer_options": [
+      "A booster seat",
+      "A rear-facing car seat",
+      "A front seat with seat belt only",
+      "No restraint if tall"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: A rear-facing car seat. Source: WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0062",
+    "category": "Zones",
+    "question_text": "You see flashing lights ahead and signs for an emergency zone. What should you do?",
+    "answer_options": [
+      "Move over or slow at least 10 mph below the limit (max 50 mph)",
+      "Reduce speed by 2 mph",
+      "Change lanes only if convenient",
+      "Stop and wait for instruction"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Move over or slow at least 10 mph below the limit (max 50 mph). Source: WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0063",
+    "category": "Safety",
+    "question_text": "Children ages 4+ must use a car/booster seat until:",
+    "answer_options": [
+      "Age 6",
+      "When they ask",
+      "Seat belts fit properly (typically up to 4'9\" or ages 8\u201312)",
+      "Anytime after age 4"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Seat belts fit properly (typically up to 4'9\" or ages 8\u201312). Source: WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0064",
+    "category": "Impairment",
+    "question_text": "Under 21, THC level that triggers DUI consequences is (choose the best number)",
+    "answer_options": [
+      "5.0 ng/mL",
+      "2.5 ng/mL",
+      "More than 0.00 ng/mL",
+      "10.0 ng/mL"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: More than 0.00 ng/mL. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0065",
+    "category": "Licensing",
+    "question_text": "With an Intermediate License, nighttime driving (1\u20135 a.m.) is (choose the best number)",
+    "answer_options": [
+      "Allowed if the roads are empty",
+      "Allowed after first 3 months",
+      "Not allowed unless with a parent/guardian or 25+ licensed driver",
+      "Allowed on weekends"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Not allowed unless with a parent/guardian or 25+ licensed driver. Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0066",
+    "category": "Licensing",
+    "question_text": "First 6 months with an Intermediate License: passengers under 20 are:",
+    "answer_options": [
+      "Only allowed 10 pm\u20135 am",
+      "Not allowed (except immediate family)",
+      "Allowed after 3 months",
+      "Unlimited if seat belts used"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Not allowed (except immediate family). Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0067",
+    "category": "Parking Safety",
+    "question_text": "Which statement about parking safety is TRUE?",
+    "answer_options": [
+      "Any child under 18",
+      "Only if doors are locked",
+      "Under 10 only",
+      "Under 16 with engine running; under 12 regardless"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Under 16 with engine running; under 12 regardless. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0068",
+    "category": "Impairment",
+    "question_text": "For drivers 21+, DUI per se BAC is (choose the best number)",
+    "answer_options": [
+      "0.02%",
+      "0.10%",
+      "0.05%",
+      "0.08% or higher"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 0.08% or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0069",
+    "category": "Impairment",
+    "question_text": "Refusing a chemical test under Implied Consent may suspend your license for (choose the best number)",
+    "answer_options": [
+      "1 to 3 months",
+      "90 to 730 days (or until age 21, whichever is longer)",
+      "30 to 60 days",
+      "Exactly 1 year"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 90 to 730 days (or until age 21, whichever is longer). Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0070",
+    "category": "Bicycles",
+    "question_text": "You're passing a bicyclist on a two-lane road. What's the minimum space you must leave?",
+    "answer_options": [
+      "4 inches",
+      "3 feet",
+      "6 feet",
+      "1 foot"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 3 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0071",
+    "category": "Zones",
+    "question_text": "In an emergency zone with flashing lights ahead, you must:",
+    "answer_options": [
+      "Move over or slow at least 10 mph below the limit (max 50 mph)",
+      "Maintain speed but turn on hazards",
+      "Change lanes only if convenient",
+      "Reduce speed by 2 mph"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Move over or slow at least 10 mph below the limit (max 50 mph). Source: WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Emergency zone, lines L250-L251.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0072",
+    "category": "Railroad",
+    "question_text": "At a railroad crossing with flashing lights, how far from the nearest rail must you stop?",
+    "answer_options": [
+      "No specific distance",
+      "Exactly 25 feet",
+      "Between 15 and 50 feet",
+      "At least 5 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Between 15 and 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0073",
+    "category": "School Bus",
+    "question_text": "On a multi-lane road (3+ lanes) or when separated by a median, traffic traveling opposite a stopped school bus must:",
+    "answer_options": [
+      "Stop unless a police officer waves you through",
+      "Stop only at intersections",
+      "Always stop in both directions",
+      "Not stop"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Not stop. Source: WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0074",
+    "category": "Parking",
+    "question_text": "What is the maximum distance your wheels may be from the curb when parallel parked?",
+    "answer_options": [
+      "24 inches",
+      "12 inches",
+      "18 inches",
+      "6 inches"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 12 inches. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0075",
+    "category": "Impairment",
+    "question_text": "Under 21, THC level that triggers DUI consequences is:",
+    "answer_options": [
+      "5.0 ng/mL",
+      "More than 0.00 ng/mL",
+      "2.5 ng/mL",
+      "10.0 ng/mL"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: More than 0.00 ng/mL. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0076",
+    "category": "Visibility",
+    "question_text": "You must dim high beams when following another vehicle within (choose the best number)",
+    "answer_options": [
+      "100 feet",
+      "200 feet",
+      "300 feet",
+      "600 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 300 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0077",
+    "category": "Impairment",
+    "question_text": "For drivers 21+, DUI per se THC is:",
+    "answer_options": [
+      "2.5 ng/mL",
+      "10.0 ng/mL",
+      "5.0 ng/mL or higher",
+      "0.00 ng/mL"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 5.0 ng/mL or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0078",
+    "category": "Zones",
+    "question_text": "What is the school-zone speed limit unless otherwise posted? (choose the best number)",
+    "answer_options": [
+      "15 mph",
+      "25 mph",
+      "20 mph",
+      "35 mph"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 20 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Zones, lines L246-L251.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0079",
+    "category": "Exams",
+    "question_text": "Which statement about exams is TRUE?",
+    "answer_options": [
+      "Working brake & signal lights, seat belts, and proof of liability insurance",
+      "Temporary tags",
+      "Tinted windows and ABS",
+      "Full-size spare tire"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Working brake & signal lights, seat belts, and proof of liability insurance. Source: WA DOL Driver Guide (plain-text) \u00a71.12 Exams, lines L32-L34.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.12 Exams, lines L32-L34.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0080",
+    "category": "Visibility",
+    "question_text": "Dim high beams for oncoming vehicles within ___.",
+    "answer_options": [
+      "300 feet",
+      "200 feet",
+      "600 feet",
+      "500 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 500 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0081",
+    "category": "Special Roads",
+    "question_text": "On Washington ocean beaches (Grays Harbor & Pacific counties), the speed limit is:",
+    "answer_options": [
+      "35 mph",
+      "15 mph",
+      "45 mph",
+      "25 mph"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 25 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0082",
+    "category": "Licensing",
+    "question_text": "For 16\u201317 licensing you must log at least:",
+    "answer_options": [
+      "20 hours total",
+      "60 hours total",
+      "30 hours day + 10 night",
+      "40 hours day + 10 hours night (50 total)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 40 hours day + 10 hours night (50 total). Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0083",
+    "category": "Licensing",
+    "question_text": "For 16\u201317 licensing you must log at least (choose the best number)",
+    "answer_options": [
+      "60 hours total",
+      "20 hours total",
+      "40 hours day + 10 hours night (50 total)",
+      "30 hours day + 10 night"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 40 hours day + 10 hours night (50 total). Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0084",
+    "category": "Crashes",
+    "question_text": "Report a collision (if officer doesn't) within (choose the best number)",
+    "answer_options": [
+      "24 hours",
+      "7 days",
+      "4 days",
+      "10 days"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 4 days. Source: WA DOL Driver Guide (plain-text) \u00a75.9 Crashes & reporting, lines L324-L333.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a75.9 Crashes & reporting, lines L324-L333.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0085",
+    "category": "Impairment",
+    "question_text": "Open container/cannabis law allows transport only:",
+    "answer_options": [
+      "On the passenger seat",
+      "Under a seat",
+      "In any closed bag",
+      "In the trunk or truck bed (not accessible to the driver)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: In the trunk or truck bed (not accessible to the driver). Source: WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 Open container, line L46-L47.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0086",
+    "category": "Visibility",
+    "question_text": "Dim high beams when following another vehicle within ___.",
+    "answer_options": [
+      "300 feet",
+      "200 feet",
+      "100 feet",
+      "600 feet"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 300 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0087",
+    "category": "Bicycles",
+    "question_text": "In Washington, may a bicyclist use the full lane?",
+    "answer_options": [
+      "Only in bike lanes",
+      "Only at night",
+      "Yes, bicyclists may use the full lane",
+      "No, they must stay far right at all times"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Yes, bicyclists may use the full lane. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0088",
+    "category": "Impairment",
+    "question_text": "Refusing a chemical test under Implied Consent may suspend your license for:",
+    "answer_options": [
+      "90 to 730 days (or until age 21, whichever is longer)",
+      "Exactly 1 year",
+      "1 to 3 months",
+      "30 to 60 days"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 90 to 730 days (or until age 21, whichever is longer). Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0089",
+    "category": "Transporting",
+    "question_text": "Which statement about transporting is TRUE?",
+    "answer_options": [
+      "The animal sits down",
+      "A leash is used",
+      "The animal is in a protective harness or enclosure",
+      "The animal is muzzled"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: The animal is in a protective harness or enclosure. Source: WA DOL Driver Guide (plain-text) \u00a74.19 Transporting/Animals, lines L266-L268.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.19 Transporting/Animals, lines L266-L268.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0090",
+    "category": "Zones",
+    "question_text": "Which statement about zones is TRUE?",
+    "answer_options": [
+      "Never doubled",
+      "Doubled when workers are present",
+      "Tripled at night only",
+      "Reduced for traffic flow"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Doubled when workers are present. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0091",
+    "category": "Lane Use",
+    "question_text": "Are carpool (HOV) lanes passing lanes?",
+    "answer_options": [
+      "No, HOV lanes are not passing lanes",
+      "Only for electric vehicles",
+      "Yes, always",
+      "Only on weekends"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: No, HOV lanes are not passing lanes. Source: WA DOL Driver Guide (plain-text) \u00a74.16 Lane Use, lines L238-L242.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.16 Lane Use, lines L238-L242.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0092",
+    "category": "Safety",
+    "question_text": "Children ages 4+ must use a car/booster seat until (choose the best number)",
+    "answer_options": [
+      "Anytime after age 4",
+      "5 feet tall",
+      "Age 6",
+      "Seat belts fit properly (typically up to 4'9\" or ages 8\u201312)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Seat belts fit properly (typically up to 4'9\" or ages 8\u201312). Source: WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0093",
+    "category": "Special Roads",
+    "question_text": "On Washington ocean beaches (Grays Harbor & Pacific counties), the speed limit is (choose the best number)",
+    "answer_options": [
+      "35 mph",
+      "45 mph",
+      "25 mph",
+      "15 mph"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 25 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.20 Maritime (Ferries/Beaches), lines L269-L271.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0094",
+    "category": "Transporting",
+    "question_text": "Transporting an animal in a truck bed is legal only if:",
+    "answer_options": [
+      "The animal is in a protective harness or enclosure",
+      "The animal sits down",
+      "A leash is used",
+      "The animal is muzzled"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: The animal is in a protective harness or enclosure. Source: WA DOL Driver Guide (plain-text) \u00a74.19 Transporting/Animals, lines L266-L268.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.19 Transporting/Animals, lines L266-L268.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0095",
+    "category": "Licensing",
+    "question_text": "Second violation under Intermediate License results in:",
+    "answer_options": [
+      "12-month suspension mandatory",
+      "Written warning only",
+      "License revoked for 2 years",
+      "6-month suspension or until age 18 (whichever comes first)"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 6-month suspension or until age 18 (whichever comes first). Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0096",
+    "category": "Licensing",
+    "question_text": "With an Intermediate License, nighttime driving (1\u20135 a.m.) is:",
+    "answer_options": [
+      "Allowed if the roads are empty",
+      "Not allowed unless with a parent/guardian or 25+ licensed driver",
+      "Allowed on weekends",
+      "Allowed after first 3 months"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Not allowed unless with a parent/guardian or 25+ licensed driver. Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0097",
+    "category": "Railroad",
+    "question_text": "Lights begin flashing at a railroad crossing as you approach. Where should you stop?",
+    "answer_options": [
+      "At least 5 feet",
+      "Exactly 25 feet",
+      "Between 15 and 50 feet",
+      "No specific distance"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Between 15 and 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0098",
+    "category": "Parking",
+    "question_text": "Do not park within ___ of from pedestrian safety zones must you avoid parking?",
+    "answer_options": [
+      "20 feet",
+      "50 feet",
+      "15 feet",
+      "5 feet"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 20 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0099",
+    "category": "Intersections",
+    "question_text": "Typical safe speed range for a roundabout is (choose the best number)",
+    "answer_options": [
+      "15\u201325 mph",
+      "5\u201310 mph",
+      "30\u201340 mph",
+      "Over 45 mph"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 15\u201325 mph. Source: WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.14-4.15 Intersections/Roundabouts, lines L212-L224.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0100",
+    "category": "Zones",
+    "question_text": "Fines in construction areas are:",
+    "answer_options": [
+      "Tripled at night only",
+      "Never doubled",
+      "Doubled when workers are present",
+      "Reduced for traffic flow"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Doubled when workers are present. Source: WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.17 Work zone, lines L247-L249.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0101",
+    "category": "Safety",
+    "question_text": "Children ages 2\u20134 must ride in:",
+    "answer_options": [
+      "Booster only",
+      "Any seat belt",
+      "A car seat with a harness (rear- or forward-facing)",
+      "Front seat if supervised"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: A car seat with a harness (rear- or forward-facing). Source: WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0102",
+    "category": "Impairment",
+    "question_text": "For drivers under 21, BAC that triggers DUI consequences is (choose the best number)",
+    "answer_options": [
+      "0.08%",
+      "0.00%",
+      "0.02% or higher",
+      "0.05%"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 0.02% or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0103",
+    "category": "Visibility",
+    "question_text": "Headlights must be on from:",
+    "answer_options": [
+      "\u00bd hour after sunset to \u00bd hour before sunrise (and when conditions require)",
+      "Dawn to dusk",
+      "Sunset to sunrise only",
+      "Only in rain at night"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: \u00bd hour after sunset to \u00bd hour before sunrise (and when conditions require). Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0104",
+    "category": "Bicycles",
+    "question_text": "On a two-lane road, when may you pass a bicyclist?",
+    "answer_options": [
+      "When you can fully move into the oncoming lane with no oncoming traffic",
+      "Anytime the bicyclist is slow",
+      "By squeezing past in the same lane",
+      "Only if the bicyclist signals you to pass"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: When you can fully move into the oncoming lane with no oncoming traffic. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0105",
+    "category": "Parking Safety",
+    "question_text": "It is a crime to leave a child unattended in a parked vehicle when",
+    "answer_options": [
+      "Under 10 only",
+      "Only if doors are locked",
+      "Under 16 with engine running; under 12 regardless",
+      "Any child under 18"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Under 16 with engine running; under 12 regardless. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking safety, lines L255-L257.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0106",
+    "category": "Licensing",
+    "question_text": "Washington Instruction Permit is valid for (choose the best number)",
+    "answer_options": [
+      "Until age 18",
+      "1 year (renewable with fee)",
+      "6 months",
+      "2 years"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 1 year (renewable with fee). Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0107",
+    "category": "Sharing the Road",
+    "question_text": "When an emergency vehicle approaches with lights/sirens:",
+    "answer_options": [
+      "Stop in your lane",
+      "Speed up to get away",
+      "Pull left and slow",
+      "Pull to the right and stop"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Pull to the right and stop. Source: WA DOL Driver Guide (plain-text) \u00a74.9 Emergency vehicles, lines L189-L190.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.9 Emergency vehicles, lines L189-L190.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0108",
+    "category": "Parking",
+    "question_text": "How far must you park from a fire hydrant?",
+    "answer_options": [
+      "20 feet",
+      "30 feet",
+      "15 feet",
+      "10 feet"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 15 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0109",
+    "category": "Bicycles",
+    "question_text": "Which statement about bicycles is TRUE?",
+    "answer_options": [
+      "3 feet",
+      "1 foot",
+      "4 inches",
+      "2 feet"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 3 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.6 Bicyclists, lines L178-L182.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0110",
+    "category": "Visibility",
+    "question_text": "You must dim high beams when following another vehicle within:",
+    "answer_options": [
+      "600 feet",
+      "300 feet",
+      "100 feet",
+      "200 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 300 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0111",
+    "category": "Safety",
+    "question_text": "Children up to age 2 must ride in:",
+    "answer_options": [
+      "No restraint if tall",
+      "A rear-facing car seat",
+      "A front seat with seat belt only",
+      "A booster seat"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: A rear-facing car seat. Source: WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.6 Occupant protection, lines L77-L82.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0112",
+    "category": "Licensing",
+    "question_text": "Knowledge exam scores are valid for:",
+    "answer_options": [
+      "6 months",
+      "2 years",
+      "1 year",
+      "Until you pass the skills test"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 2 years. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0113",
+    "category": "Exams",
+    "question_text": "Vehicle used for the skills exam must have:",
+    "answer_options": [
+      "Full-size spare tire",
+      "Tinted windows and ABS",
+      "Temporary tags",
+      "Working brake & signal lights, seat belts, and proof of liability insurance"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Working brake & signal lights, seat belts, and proof of liability insurance. Source: WA DOL Driver Guide (plain-text) \u00a71.12 Exams, lines L32-L34.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.12 Exams, lines L32-L34.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0114",
+    "category": "Impairment",
+    "question_text": "For drivers under 21, BAC that triggers DUI consequences is:",
+    "answer_options": [
+      "0.02% or higher",
+      "0.05%",
+      "0.08%",
+      "0.00%"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 0.02% or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0115",
+    "category": "Licensing",
+    "question_text": "Without driver training, when can you take the knowledge exam for a permit?",
+    "answer_options": [
+      "At 15",
+      "At 14\u00bd",
+      "At 16",
+      "After turning 15\u00bd"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: After turning 15\u00bd. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0116",
+    "category": "Licensing",
+    "question_text": "Washington Instruction Permit is valid for:",
+    "answer_options": [
+      "2 years",
+      "1 year (renewable with fee)",
+      "6 months",
+      "Until age 18"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 1 year (renewable with fee). Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0117",
+    "category": "Visibility",
+    "question_text": "You must switch from high beams to low beams when an oncoming vehicle is within (choose the best number)",
+    "answer_options": [
+      "100 feet",
+      "600 feet",
+      "200 feet",
+      "500 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 500 feet. Source: WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a72.5 Vehicle lights, lines L71-L75.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0118",
+    "category": "Parking",
+    "question_text": "How far from pedestrian safety zones must you avoid parking?",
+    "answer_options": [
+      "15 feet",
+      "20 feet",
+      "30 feet",
+      "5 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: 20 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.18 Parking, lines L252-L256.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0119",
+    "category": "School Bus",
+    "question_text": "When a school bus has red lights flashing and the stop arm extended on a two-lane road, you must:",
+    "answer_options": [
+      "Honk and proceed",
+      "Slow and pass with caution",
+      "Stop in both directions",
+      "Stop only if you're behind the bus"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Stop in both directions. Source: WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.2 School buses, lines L165-L168.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0120",
+    "category": "Sharing the Road",
+    "question_text": "Before proceeding, you must wait for a pedestrian to clear:",
+    "answer_options": [
+      "The entire intersection always",
+      "Half the road",
+      "Your lane and one additional lane",
+      "Just the crosswalk"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: Your lane and one additional lane. Source: WA DOL Driver Guide (plain-text) \u00a74.1 Sharing with people, lines L162-L164.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.1 Sharing with people, lines L162-L164.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0121",
+    "category": "Licensing",
+    "question_text": "Earliest age to get an Instruction Permit when enrolled in driver training (choose the best number)",
+    "answer_options": [
+      "14\u00bd years",
+      "16 years",
+      "15\u00bd years",
+      "15 years"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: 15 years. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0122",
+    "category": "Impairment",
+    "question_text": "For drivers 21+, DUI per se THC is (choose the best number)",
+    "answer_options": [
+      "5.0 ng/mL or higher",
+      "10.0 ng/mL",
+      "0.00 ng/mL",
+      "2.5 ng/mL"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: 5.0 ng/mL or higher. Source: WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.15 DUI & Implied Consent, lines L42-L46.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0123",
+    "category": "Railroad",
+    "question_text": "At a railroad crossing with flashing lights, how far from the nearest rail must you stop? (choose the best number)",
+    "answer_options": [
+      "Exactly 25 feet",
+      "More than 75 feet",
+      "No specific distance",
+      "Between 15 and 50 feet"
+    ],
+    "correct_index": 3,
+    "explanation": "Correct: Between 15 and 50 feet. Source: WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.7 Trains, lines L183-L186.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0124",
+    "category": "Licensing",
+    "question_text": "After 6 months of safe driving, how many passengers under 20 are allowed (not family)?",
+    "answer_options": [
+      "Up to 3",
+      "Unlimited",
+      "None",
+      "Only with parent permission"
+    ],
+    "correct_index": 0,
+    "explanation": "Correct: Up to 3. Source: WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8-1.9 Intermediate License, lines L21-L24.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0125",
+    "category": "Traffic Enforcement",
+    "question_text": "Automated traffic safety cameras in WA may issue tickets for:",
+    "answer_options": [
+      "HOV lane use",
+      "Red-light, railroad signal, and school-zone speed violations",
+      "Expired tabs",
+      "Parking meter violations"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct: Red-light, railroad signal, and school-zone speed violations. Source: WA DOL Driver Guide (plain-text) \u00a74.11 Regulatory signs, lines L202-L205.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a74.11 Regulatory signs, lines L202-L205.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0126",
+    "category": "Licensing",
+    "question_text": "Earliest age to get an Instruction Permit when enrolled in driver training:",
+    "answer_options": [
+      "16 years",
+      "14\u00bd years",
+      "15 years",
+      "15\u00bd years"
+    ],
+    "correct_index": 2,
+    "explanation": "Correct: 15 years. Source: WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "source": "WA DOL Driver Guide (plain-text) \u00a71.8 Instruction permits, lines L12-L19.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0127",
+    "category": "Speed",
+    "question_text": "What is the default speed limit on city and town streets in Washington (unless otherwise posted)?",
+    "answer_options": [
+      "20 mph",
+      "25 mph",
+      "30 mph",
+      "35 mph"
+    ],
+    "correct_index": 1,
+    "explanation": "City/town default is 25 mph unless otherwise posted.",
+    "source": "RCW 46.61.400/.405 (default limits 25/50/60) \u2014 via Adams County FAQ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0128",
+    "category": "Speed",
+    "question_text": "On county roads in Washington, the default speed limit (unless posted otherwise) is:",
+    "answer_options": [
+      "45 mph",
+      "50 mph",
+      "55 mph",
+      "60 mph"
+    ],
+    "correct_index": 1,
+    "explanation": "County roads default to 50 mph unless otherwise posted.",
+    "source": "RCW 46.61.400/.405 (default limits 25/50/60) \u2014 via Adams County FAQ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0129",
+    "category": "Speed",
+    "question_text": "On Washington state highways, the default speed limit (unless otherwise posted) is:",
+    "answer_options": [
+      "50 mph",
+      "55 mph",
+      "60 mph",
+      "65 mph"
+    ],
+    "correct_index": 2,
+    "explanation": "State highways default to 60 mph unless otherwise posted.",
+    "source": "RCW 46.61.400/.405 (default limits 25/50/60) \u2014 via Adams County FAQ",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0130",
+    "category": "Speed",
+    "question_text": "You can be cited in WA for driving too fast for conditions even if under the posted limit. This is:",
+    "answer_options": [
+      "The basic speed rule",
+      "The reasonable-driver statute",
+      "The minimum speed rule",
+      "Not enforceable"
+    ],
+    "correct_index": 0,
+    "explanation": "WA enforces a basic speed law: adjust speed for conditions.",
+    "source": "WA Driver Guide & RCW 46.61.400",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0131",
+    "category": "Signals",
+    "question_text": "What is the correct hand signal for a right turn?",
+    "answer_options": [
+      "Left arm straight out",
+      "Left arm up at 90\u00b0",
+      "Left arm down at 90\u00b0",
+      "Right arm out the window"
+    ],
+    "correct_index": 1,
+    "explanation": "Right turn: left arm up (or use signal lamps).",
+    "source": "RCW 46.61.310 (hand/arm signals) \u2014 app.leg.wa.gov",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0132",
+    "category": "Signals",
+    "question_text": "What is the correct hand signal for slowing or stopping?",
+    "answer_options": [
+      "Left arm straight out",
+      "Left arm up at 90\u00b0",
+      "Left arm down at 90\u00b0",
+      "Right arm straight out"
+    ],
+    "correct_index": 2,
+    "explanation": "Slow/stop: left arm down.",
+    "source": "RCW 46.61.310 (hand/arm signals) \u2014 app.leg.wa.gov",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0133",
+    "category": "Signals",
+    "question_text": "If your signal lamps fail, Washington law allows you to:",
+    "answer_options": [
+      "Use hand/arm signals",
+      "Proceed without signaling",
+      "Use hazard lights only",
+      "Roll down windows only"
+    ],
+    "correct_index": 0,
+    "explanation": "RCW allows hand/arm signals when lamps are unavailable.",
+    "source": "RCW 46.61.310 (hand/arm signals) \u2014 app.leg.wa.gov",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0134",
+    "category": "Visibility",
+    "question_text": "Headlights in Washington must be used from:",
+    "answer_options": [
+      "Sunset to sunrise only",
+      "Half an hour after sunset to half an hour before sunrise, or when visibility < 1,000 ft",
+      "Whenever driving over 25 mph",
+      "Only in rural areas at night"
+    ],
+    "correct_index": 1,
+    "explanation": "RCW 46.37.020 requires lights from 30 min after sunset to 30 min before sunrise and when visibility is under 1,000 ft.",
+    "source": "RCW 46.37.020 (headlights timing) \u2014 app.leg.wa.gov",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0135",
+    "category": "Visibility",
+    "question_text": "When must you dim high beams for an oncoming vehicle in WA?",
+    "answer_options": [
+      "Within 500 ft",
+      "Within 300 ft",
+      "Within 200 ft",
+      "Within 600 ft"
+    ],
+    "correct_index": 0,
+    "explanation": "Dim for oncoming within 500 ft; for following within 300 ft.",
+    "source": "WA Driver Guide; RCW 46.37.230 summary",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0136",
+    "category": "Visibility",
+    "question_text": "When following another vehicle, you must dim high beams when you are within:",
+    "answer_options": [
+      "100 ft",
+      "200 ft",
+      "300 ft",
+      "500 ft"
+    ],
+    "correct_index": 2,
+    "explanation": "Dim high beams within 300 ft when following.",
+    "source": "WA Driver Guide; RCW 46.37.230 summary",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0137",
+    "category": "Adverse Conditions",
+    "question_text": "At approximately what speed can many vehicles begin to hydroplane on standing water?",
+    "answer_options": [
+      "25 mph",
+      "35 mph",
+      "45 mph",
+      "55 mph"
+    ],
+    "correct_index": 1,
+    "explanation": "Risk of hydroplaning can begin around ~35 mph on standing water.",
+    "source": "Hydroplaning ~35 mph risk \u2014 carparts.com/blog",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0138",
+    "category": "Vehicle Safety",
+    "question_text": "What is the common minimum legal tread depth for most passenger tires?",
+    "answer_options": [
+      "1/32 inch",
+      "2/32 inch",
+      "3/32 inch",
+      "4/32 inch"
+    ],
+    "correct_index": 1,
+    "explanation": "2/32\" is the typical minimum tread depth; replace before this.",
+    "source": "WA tire law/tread depth context \u2014 legalclarity.org; KOMO/AAA maintenance piece",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0139",
+    "category": "Adverse Conditions",
+    "question_text": "To reduce hydroplaning risk, you should:",
+    "answer_options": [
+      "Increase speed to cut through water",
+      "Drive in tracks of vehicles ahead and reduce speed",
+      "Use cruise control",
+      "Overinflate tires slightly"
+    ],
+    "correct_index": 1,
+    "explanation": "Slow down, maintain good tread, and drive in existing tracks.",
+    "source": "Hydroplaning ~35 mph risk \u2014 carparts.com/blog",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0140",
+    "category": "Parking",
+    "question_text": "When parking uphill with a curb, turn the front wheels:",
+    "answer_options": [
+      "Toward the curb",
+      "Away from the curb",
+      "Straight ahead",
+      "Either way"
+    ],
+    "correct_index": 1,
+    "explanation": "Uphill with curb: turn wheels away so the curb catches the tire.",
+    "source": "Hill parking general rules \u2014 driversprep.com / thewisedrive.com",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0141",
+    "category": "Parking",
+    "question_text": "When parking downhill with a curb, turn the front wheels:",
+    "answer_options": [
+      "Toward the curb",
+      "Away from the curb",
+      "Straight ahead",
+      "Either way"
+    ],
+    "correct_index": 0,
+    "explanation": "Downhill with curb: turn wheels toward the curb.",
+    "source": "Hill parking general rules \u2014 driversprep.com / thewisedrive.com",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0142",
+    "category": "Parking",
+    "question_text": "When parking uphill with NO curb, turn the front wheels:",
+    "answer_options": [
+      "Toward the edge/right shoulder",
+      "Away from the shoulder",
+      "Straight ahead",
+      "Doesn\u2019t matter"
+    ],
+    "correct_index": 0,
+    "explanation": "No curb: steer toward the road edge so the car rolls away from traffic.",
+    "source": "Hill parking general rules \u2014 driversprep.com / thewisedrive.com",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0143",
+    "category": "Following Distance",
+    "question_text": "At speeds above 30 mph, a good following distance in WA is at least:",
+    "answer_options": [
+      "2 seconds",
+      "3 seconds",
+      "4 seconds",
+      "5 seconds"
+    ],
+    "correct_index": 2,
+    "explanation": "Use at least the four\u2011second rule at higher speeds.",
+    "source": "WA practice references; Quizlet note to Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0144",
+    "category": "Following Distance",
+    "question_text": "In ideal conditions under 30 mph, what is the minimum following distance guideline?",
+    "answer_options": [
+      "2 seconds",
+      "3 seconds",
+      "4 seconds",
+      "1 second"
+    ],
+    "correct_index": 0,
+    "explanation": "Two\u2011second rule in lighter, slower conditions; increase as needed.",
+    "source": "WA Driver Guide common practice",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0145",
+    "category": "Signals",
+    "question_text": "In Washington, after stopping at a red light, you may turn right:",
+    "answer_options": [
+      "Only if a police officer directs you",
+      "If there is no sign prohibiting it and it\u2019s safe",
+      "Never",
+      "Only between midnight and 5 a.m."
+    ],
+    "correct_index": 1,
+    "explanation": "Right on red is allowed after a complete stop unless posted otherwise.",
+    "source": "WA Driver Guide; WMST PDF",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0146",
+    "category": "Signals",
+    "question_text": "In Washington, after stopping at a red light, when may you turn LEFT on red?",
+    "answer_options": [
+      "Never",
+      "Only from a one\u2011way street onto another one\u2011way street when allowed and safe",
+      "Anytime traffic is light",
+      "Only with a green arrow"
+    ],
+    "correct_index": 1,
+    "explanation": "Left on red is permitted from one\u2011way to one\u2011way after stop when not prohibited.",
+    "source": "WA Driver Guide; WMST PDF",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0147",
+    "category": "Signs",
+    "question_text": "A pennant\u2011shaped yellow sign indicates:",
+    "answer_options": [
+      "No passing zone",
+      "School zone",
+      "Yield",
+      "Slow moving vehicle"
+    ],
+    "correct_index": 0,
+    "explanation": "Pennant (sideways triangle) marks the start of a no\u2011passing zone.",
+    "source": "WA signs references",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0148",
+    "category": "Signs",
+    "question_text": "An orange diamond sign generally means:",
+    "answer_options": [
+      "Recreation area",
+      "Construction/work zone warning",
+      "Regulatory speed limit",
+      "Railroad crossing"
+    ],
+    "correct_index": 1,
+    "explanation": "Orange diamonds warn of construction/work zones.",
+    "source": "WA signs references",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0149",
+    "category": "Signs",
+    "question_text": "A red triangle with a reflective border affixed to a vehicle indicates:",
+    "answer_options": [
+      "Emergency vehicle",
+      "Oversize load",
+      "Slow moving vehicle",
+      "Hazardous cargo"
+    ],
+    "correct_index": 2,
+    "explanation": "Slow-moving vehicle emblem.",
+    "source": "WA signs references",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0150",
+    "category": "Sharing the Road",
+    "question_text": "When following a motorcycle, you should use at least:",
+    "answer_options": [
+      "1 second",
+      "2 seconds",
+      "4 seconds",
+      "Same as cars"
+    ],
+    "correct_index": 2,
+    "explanation": "Increase following distance; motorcycles can stop quickly.",
+    "source": "Common WA practice/Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0151",
+    "category": "Sharing the Road",
+    "question_text": "If you cannot see a truck\u2019s mirrors, the truck driver:",
+    "answer_options": [
+      "Can still see you with cameras",
+      "Probably cannot see you",
+      "Will be alerted by sensors",
+      "Always sees you"
+    ],
+    "correct_index": 1,
+    "explanation": "If you can\u2019t see the mirrors, they probably can\u2019t see you.",
+    "source": "WA Driver Guide",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0152",
+    "category": "School Zones",
+    "question_text": "Unless otherwise posted, the school\u2011zone speed limit in WA is:",
+    "answer_options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "30 mph"
+    ],
+    "correct_index": 1,
+    "explanation": "School zones are typically 20 mph.",
+    "source": "WA Driver Guide",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0153",
+    "category": "School Bus",
+    "question_text": "On a roadway with three or more lanes in each direction, when a school bus stops with red lights flashing, oncoming traffic must:",
+    "answer_options": [
+      "Stop",
+      "Slow and pass with caution",
+      "Is not required to stop",
+      "Honk and pass"
+    ],
+    "correct_index": 2,
+    "explanation": "Opposite-direction traffic on 3+ lanes or divided highway is not required to stop.",
+    "source": "WA Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0154",
+    "category": "Zones",
+    "question_text": "In Washington emergency zones, you must either move over or:",
+    "answer_options": [
+      "Maintain speed if in your lane",
+      "Slow at least 10 mph below the limit (never over 50 mph)",
+      "Stop completely",
+      "Turn on hazards only"
+    ],
+    "correct_index": 1,
+    "explanation": "WA emergency\u2011zone rule: slow 10 mph below limit, max 50 mph.",
+    "source": "WA Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0155",
+    "category": "Enforcement",
+    "question_text": "Automated cameras in WA may cite for:",
+    "answer_options": [
+      "Seat belt misuse",
+      "Red\u2011light, railroad signal, and school\u2011zone speed violations",
+      "Expired registration",
+      "Failure to yield"
+    ],
+    "correct_index": 1,
+    "explanation": "Cameras enforce red lights, RR signals, school\u2011zone speed.",
+    "source": "WA Driver Guide",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0156",
+    "category": "Impairment",
+    "question_text": "For drivers age 21+, Washington\u2019s per se limit for blood alcohol concentration (BAC) is:",
+    "answer_options": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correct_index": 2,
+    "explanation": "BAC \u2265 0.08% is DUI per se for 21+.",
+    "source": "WA Driver Guide",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0157",
+    "category": "Impairment",
+    "question_text": "For drivers age 21+, Washington\u2019s per se THC concentration is:",
+    "answer_options": [
+      "2 ng/mL",
+      "5 ng/mL",
+      "8 ng/mL",
+      "0 ng/mL"
+    ],
+    "correct_index": 1,
+    "explanation": "THC \u2265 5 ng/mL is DUI per se for 21+.",
+    "source": "WA Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0158",
+    "category": "Impairment",
+    "question_text": "Under 21, a BAC of ____ can result in DUI consequences in WA.",
+    "answer_options": [
+      "0.00%",
+      "0.02% or higher",
+      "0.05%",
+      "0.08%"
+    ],
+    "correct_index": 1,
+    "explanation": "Under 21: 0.02% or higher triggers DUI consequences.",
+    "source": "WA Driver Guide",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0159",
+    "category": "Vehicle Safety",
+    "question_text": "Using the penny test, if you can see the top of Lincoln\u2019s head, your tread is:",
+    "answer_options": [
+      "At least 4/32\"",
+      "Less than 2/32\" (replace)",
+      "Exactly 2/32\"",
+      "Good for winter"
+    ],
+    "correct_index": 1,
+    "explanation": "Seeing Lincoln\u2019s head means tread is too low.",
+    "source": "WA tire law/tread depth context \u2014 legalclarity.org; KOMO/AAA maintenance piece",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0160",
+    "category": "Speed",
+    "question_text": "The safest way to handle a curve is to:",
+    "answer_options": [
+      "Brake in the middle of the curve",
+      "Brake before the curve, then accelerate gently through",
+      "Accelerate hard into the curve",
+      "Hold cruise control"
+    ],
+    "correct_index": 1,
+    "explanation": "Slow before entering, then accelerate gently to maintain control.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0161",
+    "category": "Visibility",
+    "question_text": "In fog, you should use:",
+    "answer_options": [
+      "High beams",
+      "Low beams",
+      "Parking lights only",
+      "No lights"
+    ],
+    "correct_index": 1,
+    "explanation": "Use low beams; high beams reflect glare in fog.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0162",
+    "category": "Adverse Conditions",
+    "question_text": "On wet roads, your following distance should be:",
+    "answer_options": [
+      "Same as dry",
+      "Slightly less",
+      "Increased",
+      "Irrelevant"
+    ],
+    "correct_index": 2,
+    "explanation": "Increase following distance in rain/wet conditions.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0163",
+    "category": "Vehicle Control",
+    "question_text": "If your vehicle starts to skid, you should:",
+    "answer_options": [
+      "Brake hard and hold",
+      "Steer in the direction you want the front wheels to go",
+      "Accelerate quickly",
+      "Turn opposite the skid immediately"
+    ],
+    "correct_index": 1,
+    "explanation": "Look/steer where you want to go; ease off pedals.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0164",
+    "category": "Vehicle Control",
+    "question_text": "If your brakes fail, your first action should be to:",
+    "answer_options": [
+      "Shift to park",
+      "Pump the brake pedal to build pressure",
+      "Turn off the engine",
+      "Honk continuously"
+    ],
+    "correct_index": 1,
+    "explanation": "Pump brakes; downshift; use parking brake if needed.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0165",
+    "category": "Vehicle Control",
+    "question_text": "With ABS (anti-lock brakes) during emergency braking, you should:",
+    "answer_options": [
+      "Pump the brakes",
+      "Press hard and steer",
+      "Release the brakes fully",
+      "Turn off the ignition"
+    ],
+    "correct_index": 1,
+    "explanation": "With ABS, press firmly and steer around hazards.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0166",
+    "category": "Freeways",
+    "question_text": "When entering a freeway, you should:",
+    "answer_options": [
+      "Stop at the end of the ramp",
+      "Match speed with traffic in the acceleration lane and merge when safe",
+      "Drive on the shoulder until a gap opens",
+      "Enter at any speed if signaling"
+    ],
+    "correct_index": 1,
+    "explanation": "Use the acceleration lane to match speed and merge.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0167",
+    "category": "Freeways",
+    "question_text": "If you miss your freeway exit, you should:",
+    "answer_options": [
+      "Back up carefully",
+      "Stop and wait for a gap",
+      "Go to the next exit",
+      "Cross the median to turn around"
+    ],
+    "correct_index": 2,
+    "explanation": "Proceed to the next exit; never back up or cross medians.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0168",
+    "category": "Freeways",
+    "question_text": "Ramp meters displaying a red light mean:",
+    "answer_options": [
+      "Yield only",
+      "You must stop at the stop line until green",
+      "Proceed if clear",
+      "Trucks only stop"
+    ],
+    "correct_index": 1,
+    "explanation": "Stop at ramp meters when red until green signal.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0169",
+    "category": "Railroad",
+    "question_text": "It is illegal to shift gears while crossing railroad tracks because:",
+    "answer_options": [
+      "It wastes fuel",
+      "You might stall on the tracks",
+      "It confuses other drivers",
+      "It damages the transmission"
+    ],
+    "correct_index": 1,
+    "explanation": "Avoid shifting on tracks to reduce stall risk.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0170",
+    "category": "Railroad",
+    "question_text": "Always look and listen for trains even if warning signals are not active because:",
+    "answer_options": [
+      "Signals never fail",
+      "Trains always whistle",
+      "Signals can malfunction or a second train may be approaching",
+      "Trains are slow"
+    ],
+    "correct_index": 2,
+    "explanation": "Never rely solely on signals; look and listen.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0171",
+    "category": "Intersections",
+    "question_text": "In a roundabout, do not stop in the circle unless:",
+    "answer_options": [
+      "Traffic is heavy",
+      "You missed your exit",
+      "There is a collision or emergency",
+      "You want to yield to vehicles entering"
+    ],
+    "correct_index": 2,
+    "explanation": "Keep moving; stop only for emergencies.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0172",
+    "category": "Intersections",
+    "question_text": "Before exiting a roundabout, you should:",
+    "answer_options": [
+      "Signal right",
+      "Signal left",
+      "Not signal",
+      "Honk"
+    ],
+    "correct_index": 0,
+    "explanation": "Signal right to exit a roundabout.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0173",
+    "category": "Sharing the Road",
+    "question_text": "When an emergency vehicle with lights and siren approaches, you must:",
+    "answer_options": [
+      "Continue at the same speed",
+      "Pull to the right edge and stop",
+      "Pull left and slow",
+      "Stop where you are"
+    ],
+    "correct_index": 1,
+    "explanation": "Pull right and stop until it passes.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0174",
+    "category": "Visibility",
+    "question_text": "At night, you should dim your high beams when following within 300 ft because:",
+    "answer_options": [
+      "It saves battery",
+      "It reduces glare for the driver ahead",
+      "It makes signs easier to read",
+      "It increases your stopping distance"
+    ],
+    "correct_index": 1,
+    "explanation": "Prevent glare in the mirrors of the vehicle ahead.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0175",
+    "category": "Pedestrians",
+    "question_text": "At an unmarked crosswalk, you must:",
+    "answer_options": [
+      "Yield to pedestrians",
+      "Proceed first",
+      "Honk to warn",
+      "Only yield if they\u2019re running"
+    ],
+    "correct_index": 0,
+    "explanation": "Every intersection is a crosswalk; yield appropriately.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0176",
+    "category": "Turns",
+    "question_text": "You must signal at least ____ before turning or changing lanes.",
+    "answer_options": [
+      "50 feet",
+      "100 feet",
+      "200 feet",
+      "500 feet"
+    ],
+    "correct_index": 1,
+    "explanation": "Signal at least 100 ft before turns/lane changes.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0177",
+    "category": "Turns",
+    "question_text": "Before turning left across oncoming traffic, you should:",
+    "answer_options": [
+      "Turn quickly to beat traffic",
+      "Yield and turn only when there is a safe gap",
+      "Stop in the intersection to wait",
+      "Always take the inside lane"
+    ],
+    "correct_index": 1,
+    "explanation": "Yield to oncoming traffic and turn when safe.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0178",
+    "category": "Passing",
+    "question_text": "Before passing on a two\u2011lane road, you must ensure that:",
+    "answer_options": [
+      "It\u2019s a dotted yellow on your side and you have a clear view ahead",
+      "It\u2019s a double solid yellow",
+      "There\u2019s a hill ahead",
+      "You are in a no\u2011passing zone"
+    ],
+    "correct_index": 0,
+    "explanation": "Only pass with a dashed yellow on your side and a clear path.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0179",
+    "category": "Passing",
+    "question_text": "You may not pass within:",
+    "answer_options": [
+      "100 ft of a bridge or tunnel",
+      "100 ft of an intersection or railroad crossing",
+      "100 ft of a driveway",
+      "Any time traffic is slow"
+    ],
+    "correct_index": 1,
+    "explanation": "Do not pass near intersections or RR crossings.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0180",
+    "category": "Distractions",
+    "question_text": "Texting while driving in WA is:",
+    "answer_options": [
+      "Discouraged but legal",
+      "Illegal (primary offense)",
+      "Only illegal for teens",
+      "Legal at stoplights"
+    ],
+    "correct_index": 1,
+    "explanation": "Hand\u2011held use is prohibited; enforcement is primary.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0181",
+    "category": "Safety",
+    "question_text": "Seat belts in WA must be worn by:",
+    "answer_options": [
+      "Only front\u2011seat adults",
+      "Drivers only",
+      "All occupants",
+      "Only minors"
+    ],
+    "correct_index": 2,
+    "explanation": "All occupants must wear seat belts; child restraints as required.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0182",
+    "category": "Speed",
+    "question_text": "Stopping distance is the sum of:",
+    "answer_options": [
+      "Reaction distance + braking distance",
+      "Perception only",
+      "Braking distance only",
+      "Vehicle length + speed"
+    ],
+    "correct_index": 0,
+    "explanation": "Perception/reaction + braking = stopping distance.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0183",
+    "category": "Zones",
+    "question_text": "In a work zone, you must obey the instructions of:",
+    "answer_options": [
+      "Only police officers",
+      "Only posted signs",
+      "Flaggers and posted signs",
+      "No one if no workers are visible"
+    ],
+    "correct_index": 2,
+    "explanation": "Obey flaggers and signs; fines may double.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0184",
+    "category": "Lane Changes",
+    "question_text": "Before changing lanes, you should check mirrors and:",
+    "answer_options": [
+      "Rely on blind\u2011spot monitor",
+      "Glance over your shoulder to check blind spots",
+      "Honk",
+      "Speed up 10 mph"
+    ],
+    "correct_index": 1,
+    "explanation": "A quick shoulder check covers blind spots.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0185",
+    "category": "Maneuvers",
+    "question_text": "When backing, you should:",
+    "answer_options": [
+      "Rely on mirrors only",
+      "Turn your head and look through the rear window",
+      "Open the door",
+      "Back quickly to minimize time"
+    ],
+    "correct_index": 1,
+    "explanation": "Look through rear window while backing; go slowly.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0186",
+    "category": "School Bus",
+    "question_text": "You must remain stopped for a school bus with red lights until:",
+    "answer_options": [
+      "The driver waves you on",
+      "Children are 50 ft away",
+      "The lights stop flashing and the stop sign is retracted",
+      "60 seconds pass"
+    ],
+    "correct_index": 2,
+    "explanation": "Remain stopped until signals are off and stop arm retracts.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0187",
+    "category": "Intersections",
+    "question_text": "A \u201cstale green\u201d light is:",
+    "answer_options": [
+      "About to turn yellow",
+      "Freshly turned green",
+      "Flashing green",
+      "Protected green arrow"
+    ],
+    "correct_index": 0,
+    "explanation": "Be ready to stop; a stale green may change soon.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0188",
+    "category": "Visibility",
+    "question_text": "In heavy rain during the day, you should use:",
+    "answer_options": [
+      "Parking lights only",
+      "Low\u2011beam headlights",
+      "High beams",
+      "No lights"
+    ],
+    "correct_index": 1,
+    "explanation": "Use low beams to increase visibility to others.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0189",
+    "category": "Lane Use",
+    "question_text": "You may drive on the shoulder:",
+    "answer_options": [
+      "To pass turning traffic",
+      "Only when directed by signs or officials",
+      "Whenever quicker",
+      "To yield to faster cars"
+    ],
+    "correct_index": 1,
+    "explanation": "Shoulders are not travel lanes unless signed or directed.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0190",
+    "category": "Lane Use",
+    "question_text": "On multi\u2011lane roads in WA, the left lane is generally for:",
+    "answer_options": [
+      "Trucks only",
+      "Passing and faster traffic",
+      "Parking",
+      "Slow vehicles"
+    ],
+    "correct_index": 1,
+    "explanation": "Keep right, pass left; follow lane\u2011use signs where posted.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0191",
+    "category": "Pedestrians",
+    "question_text": "You must obey directions from school crossing guards:",
+    "answer_options": [
+      "Only if police are present",
+      "Only during school hours",
+      "At all times when they are on duty",
+      "Optional"
+    ],
+    "correct_index": 2,
+    "explanation": "Crossing guards\u2019 instructions are enforceable.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0192",
+    "category": "Bicycles",
+    "question_text": "When turning right across a bike lane, you should:",
+    "answer_options": [
+      "Merge into the bike lane if allowed and then turn when clear",
+      "Turn from the travel lane across the bike lane without merging",
+      "Stop in the bike lane to wait",
+      "Honk at bicyclists"
+    ],
+    "correct_index": 0,
+    "explanation": "Yield to bicyclists; merge into the lane where permitted before turning.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0193",
+    "category": "Emergencies",
+    "question_text": "If your vehicle is disabled on the shoulder at night, you should:",
+    "answer_options": [
+      "Turn off all lights to save battery",
+      "Leave headlights off but hazards on",
+      "Use hazard flashers and, if available, reflective triangles/flares",
+      "Stand in front of the vehicle to wave traffic"
+    ],
+    "correct_index": 2,
+    "explanation": "Make your vehicle visible and stay clear of traffic.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0194",
+    "category": "Bicycles",
+    "question_text": "When passing a bicyclist, you should allow at least:",
+    "answer_options": [
+      "1 foot",
+      "2 feet",
+      "3 feet",
+      "6 inches"
+    ],
+    "correct_index": 2,
+    "explanation": "Leave a safe buffer\u2014at least 3 feet is recommended.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0195",
+    "category": "Freeways",
+    "question_text": "You may be cited for driving significantly below the speed of traffic when:",
+    "answer_options": [
+      "Conditions are hazardous",
+      "You are in the right lane",
+      "You impede normal and reasonable movement of traffic",
+      "You are looking for an address"
+    ],
+    "correct_index": 2,
+    "explanation": "Don\u2019t impede traffic; use right lane and safe pull\u2011offs.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0196",
+    "category": "Turns",
+    "question_text": "Before making a U\u2011turn, you must ensure that:",
+    "answer_options": [
+      "There is a \u2018No U\u2011turn\u2019 sign",
+      "You can complete it without interfering with other traffic and where allowed",
+      "A police officer is present",
+      "You sound your horn"
+    ],
+    "correct_index": 1,
+    "explanation": "Only make U\u2011turns where legal and safe.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0197",
+    "category": "Safety",
+    "question_text": "If another driver displays road rage, you should:",
+    "answer_options": [
+      "Make eye contact and gesture",
+      "Don\u2019t engage; create space and avoid eye contact",
+      "Brake\u2011check them",
+      "Follow them to confront"
+    ],
+    "correct_index": 1,
+    "explanation": "De\u2011escalate by increasing space and avoiding confrontation.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0198",
+    "category": "Safety",
+    "question_text": "Properly adjusted head restraints help prevent:",
+    "answer_options": [
+      "Skidding",
+      "Whiplash injuries",
+      "Flat tires",
+      "Hydroplaning"
+    ],
+    "correct_index": 1,
+    "explanation": "Head restraints reduce whiplash risk.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0199",
+    "category": "Emergencies",
+    "question_text": "If your car breaks down on the highway, you should place reflective triangles or flares:",
+    "answer_options": [
+      "Directly under the car",
+      "100\u2013200 ft behind your vehicle",
+      "Next to the driver\u2019s door",
+      "On the roof"
+    ],
+    "correct_index": 1,
+    "explanation": "Place warning devices 100\u2013200 ft behind to alert approaching traffic.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0200",
+    "category": "Zones",
+    "question_text": "In a WA work zone, whose directions take priority?",
+    "answer_options": [
+      "Electronic signs",
+      "Flaggers",
+      "Regular traffic signals",
+      "Other drivers"
+    ],
+    "correct_index": 1,
+    "explanation": "Always obey flaggers first, even over signals.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0201",
+    "category": "Emergencies",
+    "question_text": "If your vehicle stalls on a freeway, you should:",
+    "answer_options": [
+      "Stay in the lane and wait",
+      "Move to the shoulder if possible, turn on hazards, stay inside with seatbelt",
+      "Walk to the nearest exit",
+      "Stand behind the car to warn traffic"
+    ],
+    "correct_index": 1,
+    "explanation": "Move to shoulder, turn on hazards, remain belted inside until help arrives.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0202",
+    "category": "Special Roads",
+    "question_text": "On WA ocean beaches open to driving, the maximum speed limit is:",
+    "answer_options": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "35 mph"
+    ],
+    "correct_index": 2,
+    "explanation": "Beach driving limit is 25 mph unless otherwise posted.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0203",
+    "category": "Special Roads",
+    "question_text": "When boarding a Washington State Ferry by car, you must:",
+    "answer_options": [
+      "Turn off your headlights and follow crew directions",
+      "Stay in gear and ready to move",
+      "Drive at highway speeds onto the ferry",
+      "Honk when entering"
+    ],
+    "correct_index": 0,
+    "explanation": "Obey crew, turn off headlights, and park as directed.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0204",
+    "category": "Passing",
+    "question_text": "A solid yellow line on your side of the center line means:",
+    "answer_options": [
+      "Passing is prohibited",
+      "Passing allowed with caution",
+      "Passing trucks only",
+      "You may pass if no traffic is visible"
+    ],
+    "correct_index": 0,
+    "explanation": "Solid yellow on your side = no passing.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0205",
+    "category": "Visibility",
+    "question_text": "WA law requires headlights to be on whenever:",
+    "answer_options": [
+      "Windshield wipers are on",
+      "Speed exceeds 45 mph",
+      "It rains only at night",
+      "Driving through tunnels only"
+    ],
+    "correct_index": 0,
+    "explanation": "Headlights must be used whenever wipers are on for rain/snow.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "WA-CLEAN-0206",
+    "category": "Parking",
+    "question_text": "Parking is prohibited:",
+    "answer_options": [
+      "On sidewalks",
+      "In front of driveways",
+      "Within intersections",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Do not park on sidewalks, in front of driveways, or within intersections.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "WA-CLEAN-0207",
+    "category": "Railroad",
+    "question_text": "You must stop for railroad tracks when:",
+    "answer_options": [
+      "A signal is active",
+      "A crossing gate is lowered",
+      "A flagger signals",
+      "Any of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Stop when lights flash, gate lowered, or flagger signals.",
+    "source": "Washington Driver Guide (current)",
+    "difficulty": "easy"
+  }
+]

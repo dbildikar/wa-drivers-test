@@ -12,10 +12,15 @@ struct ContentView: View {
     @State private var showingTest = false
     @State private var showingResults = false
     @State private var hasAcceptedTerms = UserDefaults.standard.bool(forKey: "hasAcceptedTerms")
+    @State private var isLoading = true
+    @State private var loadingProgress: Double = 0.0
     
     var body: some View {
         Group {
-            if !hasAcceptedTerms {
+            if isLoading {
+                // Show splash with progress indicator
+                SplashView(progress: $loadingProgress)
+            } else if !hasAcceptedTerms {
                 // Show disclaimer on first launch
                 DisclaimerView(hasAcceptedTerms: $hasAcceptedTerms)
             } else {
@@ -44,12 +49,38 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.3), value: showingTest)
                     .animation(.easeInOut(duration: 0.3), value: showingResults)
                 }
-                .onAppear {
-                    testManager.loadQuestions()
-                }
             }
         }
         .animation(.easeInOut(duration: 0.3), value: hasAcceptedTerms)
+        .animation(.easeInOut(duration: 0.5), value: isLoading)
+        .onAppear {
+            loadQuestions()
+        }
+    }
+    
+    private func loadQuestions() {
+        let totalSteps = 10
+        var currentStep = 0
+        
+        Timer.scheduledTimer(withTimeInterval: 0.15, repeats: true) { timer in
+            currentStep += 1
+            withAnimation(.easeInOut(duration: 0.1)) {
+                loadingProgress = Double(currentStep) / Double(totalSteps)
+            }
+            
+            if currentStep == totalSteps / 2 {
+                Task { @MainActor in
+                    testManager.loadQuestions()
+                }
+            }
+            
+            if currentStep >= totalSteps {
+                timer.invalidate()
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    isLoading = false
+                }
+            }
+        }
     }
 }
 

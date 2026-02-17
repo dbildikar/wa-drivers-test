@@ -53,6 +53,9 @@ struct TestView: View {
                     showingResults = true
                 }
             )
+            
+            // Ad Banner at bottom
+            AdBannerContainer()
         }
         .background(Color(.systemGroupedBackground))
         .alert("Exit Test?", isPresented: $showingExitAlert) {
@@ -63,6 +66,9 @@ struct TestView: View {
             }
         } message: {
             Text("Your progress will be lost if you exit now.")
+        }
+        .onAppear {
+            AnalyticsManager.shared.logScreenView(screenName: "Test")
         }
     }
 }

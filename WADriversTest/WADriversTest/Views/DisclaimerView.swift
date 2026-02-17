@@ -91,6 +91,8 @@ struct DisclaimerView: View {
                 Button(action: {
                     // Save acceptance to UserDefaults
                     UserDefaults.standard.set(true, forKey: "hasAcceptedTerms")
+                    // Log analytics event
+                    AnalyticsManager.shared.logDisclaimerAccepted()
                     withAnimation {
                         hasAcceptedTerms = true
                     }
@@ -116,6 +118,9 @@ struct DisclaimerView: View {
             .background(Color(.systemBackground))
         }
         .background(Color(.systemGroupedBackground))
+        .onAppear {
+            AnalyticsManager.shared.logScreenView(screenName: "Disclaimer")
+        }
     }
 }
 

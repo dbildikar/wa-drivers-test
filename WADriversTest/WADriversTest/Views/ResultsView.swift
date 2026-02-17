@@ -25,6 +25,9 @@ struct ResultsView: View {
                             testManager.resetTest()
                             testManager.startTest()
                             showingResults = false
+                            // Log analytics event
+                            AnalyticsManager.shared.logRetryTest()
+                            AnalyticsManager.shared.logTestStarted(questionCount: testManager.totalQuestions)
                         }) {
                             HStack {
                                 Image(systemName: "arrow.counterclockwise")
@@ -41,6 +44,8 @@ struct ResultsView: View {
                             testManager.resetTest()
                             showingResults = false
                             showingTest = false
+                            // Log analytics event
+                            AnalyticsManager.shared.logReturnToHome()
                         }) {
                             Text("Back to Home")
                                 .frame(maxWidth: .infinity)
@@ -64,6 +69,16 @@ struct ResultsView: View {
         }
         .background(Color(.systemGroupedBackground))
         .navigationBarBackButtonHidden(true)
+        .onAppear {
+            AnalyticsManager.shared.logScreenView(screenName: "Results")
+            if let results = testManager.testResults {
+                AnalyticsManager.shared.logTestCompleted(
+                    score: results.correctAnswers,
+                    totalQuestions: results.totalQuestions,
+                    passed: results.passed
+                )
+            }
+        }
     }
 }
 
